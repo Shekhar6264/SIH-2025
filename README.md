@@ -111,7 +111,7 @@ The datasets used for this project are sourced from Kaggle:
 
 ## Contact
 
-For questions or support, please contact me: [aymenMir1001@gmail.com](mailto:aymenMir1001@gmail.com)
+For questions or support, please contact me: [shekharjamalpuri18@gmail.com](mailto:shekharjamalpuri18@gmail.com)
 
 ---
 
